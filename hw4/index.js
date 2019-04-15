@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'And the LORD set a mark upon Cain, lest any finding him should kill him.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Fellow, come from the throng, look vpon Caesar.', 
+  'example3':
+      'But, then, if Mrs. Dashwood should live fifteen years we shall be completely taken in.',
 };
 
 function status(statusText) {
