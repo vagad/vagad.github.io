@@ -8,7 +8,7 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Abashed the devil stood and felt how awful goodness is and saw Virtue in her shape how lovely: and pined his loss.',
+      'Long is the way and hard, that out of Hell leads up to light.',
   'example2':
       'And the LORD set a mark upon Cain, lest any finding him should kill him.',
   'example3':
