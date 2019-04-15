@@ -13,7 +13,7 @@ const examples = {
       'And the LORD set a mark upon Cain, lest any finding him should kill him.',
   'example3':
       'Fellow, come from the throng, look vpon Caesar.', 
-  'example3':
+  'example4':
       'But, then, if Mrs. Dashwood should live fifteen years we shall be completely taken in.',
 };
 
